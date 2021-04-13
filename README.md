@@ -75,4 +75,4 @@ As we mentioned we want the video to be 4-5 minutes long. You don’t have to co
     
 -   Upload the mp4 file in that folder (which should be called zoom_0.mp4 or something similar).
     
--   For more details or troubleshooting, see https://support.zoom.us/hc/en-us/articles/201362473-Local-Recording.
+-   For more details or troubleshooting, see [here](https://support.zoom.us/hc/en-us/articles/201362473-Local-Recording).
