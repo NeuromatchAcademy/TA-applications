@@ -14,7 +14,7 @@ My name is \_\_\_\_, I use (\_\_\_/\_\_\_) pronouns and I&#39;m a \_\_\_\_ at \_
 
 **Administrative** : You should have received a number of emails from NMA over the past few weeks. Please make sure they don&#39;t land on the spam folder!!
 
-**Discord:** You will receive an **invitation to Discord** , the forum we will be using for communication. You will receive this invitation **by email**** in the next couple of days**. Please watch your spam/promotions folder for this email too, just in case.
+**Discord:** You will receive an **invitation to Discord** , the forum we will be using for communication. You will receive this invitation **by email in the next couple of days**. Please watch your spam/promotions folder for this email too, just in case.
 
 **Surveys:** If you haven&#39;t filled out the pre-course survey, please do:
 
@@ -27,7 +27,7 @@ If you already filled this out, you don&#39;t need to do it again.
 The Deep Learning course starts on **August 2.** We meet for the tutorials during our pod&#39;s time slot, which is \_\_\_\_. Every day, we will meet on Zoom at the same zoom link: \_\_\_\_
  It will also be pinned to our pod&#39;s channel in the Discord server. This zoom link will also be used for your group projects.
 
-**Please use this widget to figure out which window of time our time slot corresponds to based on your own local time zone.** [**https://neuromatchacademy.github.io/widgets/tz.html.**](https://neuromatch.us19.list-manage.com/track/click?u=dc4b2604ae26c6a9c9174a209&amp;id=03a7de6b52&amp;e=8b6291edee)[**You can also look at the NMA calendars, and add them to your own personal Google calendar -- in your local time zone -- at this link:**](https://neuromatch.us19.list-manage.com/track/click?u=dc4b2604ae26c6a9c9174a209&amp;id=03a7de6b52&amp;e=8b6291edee)[**https://academy.neuromatch.io/calendar-summer-2021**](https://academy.neuromatch.io/calendar-summer-2021)[**.**](https://neuromatch.us19.list-manage.com/track/click?u=dc4b2604ae26c6a9c9174a209&amp;id=03a7de6b52&amp;e=8b6291edee)
+**Please use this widget to figure out which window of time our time slot corresponds to based on your own local time zone. https://neuromatchacademy.github.io/widgets/tz.html. You can also look at the NMA calendars, and add them to your own personal Google calendar -- in your local time zone -- at this link: https://academy.neuromatch.io/calendar-summer-2021**
 
 We will figure out which specific times to meet for working on projects before the Academy starts.
 
@@ -51,9 +51,8 @@ At the end of NMA you will receive an attendance and participation certificate i
   + [Slot 2 and 3: (Europe/Africa)](https://calendar.google.com/calendar/embed?src=c_r387vvjd66sg2o96cracfv5ioc%40group.calendar.google.com&amp;ctz=America%2FLos_Angeles)
   + [Slot 4 and 5: (Americas)](https://calendar.google.com/calendar/embed?src=c_ghv53rt8temq4gco5h0anp3ou4%40group.calendar.google.com&amp;ctz=America%2FLos_Angeles)
 
-  + Open the link and click on the ![](RackMultipart20210727-4-1506b7p_html_dfc10b6b1f4db84c.png) button to add to your google calendar.
-  + You can also see these calendars anytime at [**https://academy.neuromatch.io/calendar-summer-2021**](https://academy.neuromatch.io/calendar-summer-2021)[**.**](https://neuromatch.us19.list-manage.com/track/click?u=dc4b2604ae26c6a9c9174a209&amp;id=03a7de6b52&amp;e=8b6291edee)
-
+  + Open the link and click on the Google calendar button to add to your google calendar.
+  + You can also see these calendars anytime at: https://academy.neuromatch.io/calendar-summer-2021
 5. Fill in the [pre-course survey](https://portal.neuromatchacademy.org/api/redirect/to/c5031f55-e6c8-4a64-a33c-c748c608141f) if you haven&#39;t.
 
 Best,
