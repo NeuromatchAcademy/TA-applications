@@ -30,7 +30,7 @@ https://github.com/NeuromatchAcademy/course-content/blob/master/tutorials/W1D3_M
 
 You can run the jupyter notebook any way that you’d like, but we recommend using google colab to run the notebook. You can open the jupyter notebook manually through [colab](https://colab.research.google.com/github/), or hit this badge to load directly: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/NeuromatchAcademy/course-content/blob/master/tutorials/W1D3_ModelFitting/student/W1D3_Tutorial4.ipynb)
 
-***Lesson Plan Conputational Neuroscience TA application***
+***Lesson Plan Computational Neuroscience TA application***
 
 For CN TA applicants we would like you to structure your five minute video with an emphasis on both theoretical and coding aspect of the models. We will appreciate if your video follows the breakdown given below: 
 
@@ -39,8 +39,8 @@ For CN TA applicants we would like you to structure your five minute video with 
 * ~ 2 mins: Work through part of the tutorial explaining the code and typing in solutions as you go.
 
 
-
-***Lesson Plan Deep Learning TA application***
+***Lesson Plan***
+****Lesson Plan Deep Learning TA application****
 
 For DL TA applicants we would like you to structure your five minute video with a slight more emphasis on the coding aspect. We will appreciate if your video follows the breakdown given below: 
 
@@ -49,7 +49,7 @@ For DL TA applicants we would like you to structure your five minute video with 
 * < 2 mins: Work through part of the tutorial explaining the code and typing in solutions as you go.
 
 
-***How we will evaluate your video***
+****How we will evaluate your video****
 
 We are looking for people who are able to communicate well. We’re looking for quality over quantity, so don’t feel pressured to rush through everything. Instead, make sure the content you do get to is clear and easy to follow.
 
