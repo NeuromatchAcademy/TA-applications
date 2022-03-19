@@ -1,5 +1,5 @@
 
-**Neuromatch Teaching Demo Instructions**
+## **Neuromatch Teaching Demo Instructions**
 
 As part of your application, we would like you to make a 4-5 minute video that showcases your teaching. We don’t want you to spend too long making this video, certainly no longer than 1 hour. You are not competing against others. We want as many qualified TAs as possible. Instead you are demonstrating to us that you are ready to teach! You can download a sample teaching demo for this tutorial in this repo, or see it on YouTube [here](https://www.youtube.com/watch?v=bKQxpM7CTZ8).
 
@@ -30,7 +30,9 @@ https://github.com/NeuromatchAcademy/course-content/blob/master/tutorials/W1D3_M
 
 You can run the jupyter notebook any way that you’d like, but we recommend using google colab to run the notebook. You can open the jupyter notebook manually through [colab](https://colab.research.google.com/github/), or hit this badge to load directly: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/NeuromatchAcademy/course-content/blob/master/tutorials/W1D3_ModelFitting/student/W1D3_Tutorial4.ipynb)
 
-***Lesson Plan Computational Neuroscience TA application***
+### **Lesson Plan**
+
+***Computational Neuroscience TA application***
 
 For CN TA applicants we would like you to structure your five minute video with an emphasis on both theoretical and coding aspect of the models. We will appreciate if your video follows the breakdown given below: 
 
@@ -39,8 +41,8 @@ For CN TA applicants we would like you to structure your five minute video with 
 * ~ 2 mins: Work through part of the tutorial explaining the code and typing in solutions as you go.
 
 
-***Lesson Plan***
-****Lesson Plan Deep Learning TA application****
+
+***Deep Learning TA application***
 
 For DL TA applicants we would like you to structure your five minute video with a slight more emphasis on the coding aspect. We will appreciate if your video follows the breakdown given below: 
 
