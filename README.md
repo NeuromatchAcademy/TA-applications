@@ -1,7 +1,7 @@
 
 ## **Neuromatch Teaching Demo Instructions**
 
-As part of your application, we would like you to make a 4-5 minute video that showcases your teaching. We don’t want you to spend too long making this video, certainly no longer than 1 hour. You are not competing against others. We want as many qualified TAs as possible. Instead you are demonstrating to us that you are ready to teach! You can download a sample teaching demo for this tutorial in this repo, or see it on YouTube [here](https://www.youtube.com/watch?v=bKQxpM7CTZ8).
+As part of your application, we would like you to make a 4-5 minute video that showcases your teaching. We don’t want you to spend too long making this video, certainly no longer than 1 hour, (for a fair assessment, longe videos will be penalized). You are not competing against others. We want as many qualified TAs as possible. Instead you are demonstrating to us that you are ready to teach! You can download a sample teaching demo for this tutorial in this repo, or see it on YouTube [here](https://www.youtube.com/watch?v=bKQxpM7CTZ8).
 
 During the Neuromatch Academy summer course you will be leading hands-on tutorials live with a small group of students. At the end of each tutorial period you'll bring your whole group of students back for a short discussion, to review the answers to the tutorial and discuss further. Of course, in this teaching demo you're making for us there will be no live students. But we’d like you to review the first exercise in this tutorial as if there were a live audience (though you do not need to interact with this fake audience).
 
@@ -17,6 +17,14 @@ For this tutorial you can assume that your students have learnt about:
 -   Implementing bootstrapping approach to build confidence intervals around the inferred linear model parameters
   
 
+
+
+You can run the jupyter notebook any way that you’d like, but we recommend using google colab to run the notebook. You can open the jupyter notebook manually through [colab](https://colab.research.google.com/github/), or hit this badge to load directly: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/NeuromatchAcademy/course-content/blob/master/tutorials/W1D3_ModelFitting/student/W1D3_Tutorial4.ipynb)
+
+### **Lesson Plan**
+
+#### ***Computational Neuroscience TA application***
+
 ***Tutorial Description***
 
 In this set of exercises we will:
@@ -28,27 +36,31 @@ In this set of exercises we will:
 You can access the jupyter notebook containing the tutorial here:
 https://github.com/NeuromatchAcademy/course-content/blob/master/tutorials/W1D3_ModelFitting/student/W1D3_Tutorial4.ipynb
 
-You can run the jupyter notebook any way that you’d like, but we recommend using google colab to run the notebook. You can open the jupyter notebook manually through [colab](https://colab.research.google.com/github/), or hit this badge to load directly: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/NeuromatchAcademy/course-content/blob/master/tutorials/W1D3_ModelFitting/student/W1D3_Tutorial4.ipynb)
-
-### **Lesson Plan**
-
-***Computational Neuroscience TA application***
-
 For CN TA applicants we would like you to structure your five minute video with an emphasis on both theoretical and coding aspect of the models. We will appreciate if your video follows the breakdown given below: 
 
 * < 1 min: Introduce yourself. Give a few sentences about who you are!
-* < 2 mins: Give a very brief recap of one of the regression methods in the tutorial (example multiple linear regression) and explain why you might use it. While you should imagine that you are teaching a class of students, don’t feel the need to address them or ask them questions.
+* < 2 mins: Give a very brief recap of **polynomial regression method** and explain why you might use it. While you should imagine that you are teaching a class of students, don’t feel the need to address them or ask them questions.
 * ~ 2 mins: Work through part of the tutorial explaining the code and typing in solutions as you go.
 
 
 
-***Deep Learning TA application***
+#### ***Deep Learning TA application***
+
+***Tutorial Description***
+
+In this set of exercises we will cover the key concepts behind:
+-   Gradient descent
+-   PyTorch Autograd
+-   PyTorch nn module
+    
+You can access the jupyter notebook containing the tutorial here:
+https://deeplearning.neuromatch.io/tutorials/W1D2_LinearDeepLearning/student/W1D2_Tutorial1.html
 
 For DL TA applicants we would like you to structure your five minute video with a slight more emphasis on the coding aspect. We will appreciate if your video follows the breakdown given below: 
 
 * < 1 min: Introduce yourself. Give a few sentences about who you are!
-* ~ 2 mins: Give a very brief recap of one of the regression methods in the tutorial (example plynomial regression) and explain why you might use it. While you should imagine that you are teaching a class of students, don’t feel the need to address them or ask them questions.
-* < 2 mins: Work through part of the tutorial explaining the code and typing in solutions as you go.
+* ~ 2 mins: Give a very brief recap of the concept of **AutoGrad** and explain why it is useful. While you should imagine that you are teaching a class of students, don’t feel the need to address them or ask them questions.
+* < 2 mins: Work through part of the **Coding Exercise 2.1: Buiding a Computational Graphtutorial** explaining the solution code as you go.
 
 
 ****How we will evaluate your video****
