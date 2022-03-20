@@ -7,23 +7,19 @@ During the Neuromatch Academy summer course you will be leading hands-on tutoria
 
 We essentially want you to: 1) get to know our tutorial, 2) open zoom and hit record and 3) explain one of the exercises as if you were with students who had just finished working that exercise.
 
-In the remainder of this handout, we will provide a lesson plan / tutorial for ridge-regression, as well as detailed instructions about what we would like you to submit.
+In the remainder of this handout, we will provide a lesson plan for the tutorials (different for computational neuroscience and deep learning, as well as detailed instructions about what we would like you to submit.
 
+You can run the jupyter notebook any way that you’d like, but we recommend using google colab to run the notebook. You can open the jupyter notebook manually through [colab](https://colab.research.google.com/github/), or hit this badge to load directly: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/NeuromatchAcademy/course-content/blob/master/tutorials/W1D3_ModelFitting/student/W1D3_Tutorial4.ipynb)
+
+### ***Computational Neuroscience TA application***
+
+**Lesson Plan**
 ***Background***
 
 For this tutorial you can assume that your students have learnt about:
 -  The mean-squared error (MSE) and how model parameters (slope) influence the MSE
 -   Least-squares optimization and Maximum Likelihood Estimation
 -   Implementing bootstrapping approach to build confidence intervals around the inferred linear model parameters
-  
-
-
-
-You can run the jupyter notebook any way that you’d like, but we recommend using google colab to run the notebook. You can open the jupyter notebook manually through [colab](https://colab.research.google.com/github/), or hit this badge to load directly: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/NeuromatchAcademy/course-content/blob/master/tutorials/W1D3_ModelFitting/student/W1D3_Tutorial4.ipynb)
-
-### **Lesson Plan**
-
-#### ***Computational Neuroscience TA application***
 
 ***Tutorial Description***
 
@@ -40,11 +36,18 @@ For CN TA applicants we would like you to structure your five minute video with 
 
 * < 1 min: Introduce yourself. Give a few sentences about who you are!
 * < 2 mins: Give a very brief recap of **polynomial regression method** and explain why you might use it. While you should imagine that you are teaching a class of students, don’t feel the need to address them or ask them questions.
-* ~ 2 mins: Work through part of the tutorial explaining the code and typing in solutions as you go.
+* ~ 2 mins: Work through **Coding Exercise 2.1: Structure design matrix** explaining the solution code as you go.
 
+### ***Deep Learning TA application***
 
+**Lesson Plan**
+***Background***
 
-#### ***Deep Learning TA application***
+For this tutorial you can assume that your students have learnt about:
+-  The diffrential calculus 
+-  The concept of mean-squared error (MSE) and how model parameters (slope) influence the MSE
+-  Least-squares optimization and Maximum Likelihood Estimation
+
 
 ***Tutorial Description***
 
@@ -60,9 +63,10 @@ For DL TA applicants we would like you to structure your five minute video with 
 
 * < 1 min: Introduce yourself. Give a few sentences about who you are!
 * ~ 2 mins: Give a very brief recap of the concept of **AutoGrad** and explain why it is useful. While you should imagine that you are teaching a class of students, don’t feel the need to address them or ask them questions.
-* < 2 mins: Work through part of the **Coding Exercise 2.1: Buiding a Computational Graphtutorial** explaining the solution code as you go.
+* < 2 mins: Work through the **Coding Exercise 2.1: Buiding a Computational Graph** explaining the solution code as you go.
 
 
+### Evaluation and recording instructions
 ****How we will evaluate your video****
 
 We are looking for people who are able to communicate well. We’re looking for quality over quantity, so don’t feel pressured to rush through everything. Instead, make sure the content you do get to is clear and easy to follow.
