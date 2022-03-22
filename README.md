@@ -1,7 +1,7 @@
 
 ## **Neuromatch Teaching Demo Instructions**
 
-As part of your application, we would like you to make a 4-5 minute video that showcases your teaching. We don’t want you to spend too long making this video, certainly no longer than 1 hour, (for a fair assessment, longe videos will be penalized). You are not competing against others. We want as many qualified TAs as possible. Instead you are demonstrating to us that you are ready to teach! You can download a sample teaching demo for this tutorial in this repo, or see it on YouTube [here](https://www.youtube.com/watch?v=bKQxpM7CTZ8).
+As part of your application, we would like you to make a 4-5 minutes video that showcases your teaching. We don’t want you to spend too long making this video, certainly no longer than 1 hour, (for a fair assessment, longer videos will be penalized). You are not competing against others. We want as many qualified TAs as possible. Instead you are demonstrating to us that you are ready to teach! You can download a sample teaching demo for this tutorial in this repo, or see it on YouTube [here](https://www.youtube.com/watch?v=bKQxpM7CTZ8).
 
 During the Neuromatch Academy summer course you will be leading hands-on tutorials live with a small group of students. At the end of each tutorial period you'll bring your whole group of students back for a short discussion, to review the answers to the tutorial and discuss further. Of course, in this teaching demo you're making for us there will be no live students. But we’d like you to review the first exercise in this tutorial as if there were a live audience (though you do not need to interact with this fake audience).
 
@@ -44,7 +44,7 @@ For CN TA applicants we would like you to structure your five minute video with 
 ***Background***
 
 For this tutorial you can assume that your students have learnt about:
--  The diffrential calculus 
+-  The differential calculus 
 -  The concept of mean-squared error (MSE) and how model parameters (slope) influence the MSE
 -  Least-squares optimization and Maximum Likelihood Estimation
 
