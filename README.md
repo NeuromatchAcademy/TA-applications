@@ -1,21 +1,25 @@
 
-**Neuromatch Teaching Demo Instructions**
+## **Neuromatch Teaching Demo Instructions**
 
-As part of your application, we would like you to make a 4-5 minute video that showcases your teaching. We don’t want you to spend too long making this video, certainly no longer than 1 hour. You are not competing against others. We want as many qualified TAs as possible. Instead you are demonstrating to us that you are ready to teach! You can download a sample teaching demo for this tutorial in this repo, or see it on YouTube [here](https://www.youtube.com/watch?v=bKQxpM7CTZ8).
+As part of your application, we would like you to make a 4-5 minutes video that showcases your teaching. We don’t want you to spend too long making this video, certainly no longer than 1 hour, (for a fair assessment, longer videos will be penalized). You are not competing against others. We want as many qualified TAs as possible. Instead you are demonstrating to us that you are ready to teach! You can download a sample teaching demo for this tutorial in this repo, or see it on YouTube [here](https://www.youtube.com/watch?v=bKQxpM7CTZ8).
 
 During the Neuromatch Academy summer course you will be leading hands-on tutorials live with a small group of students. At the end of each tutorial period you'll bring your whole group of students back for a short discussion, to review the answers to the tutorial and discuss further. Of course, in this teaching demo you're making for us there will be no live students. But we’d like you to review the first exercise in this tutorial as if there were a live audience (though you do not need to interact with this fake audience).
 
 We essentially want you to: 1) get to know our tutorial, 2) open zoom and hit record and 3) explain one of the exercises as if you were with students who had just finished working that exercise.
 
-In the remainder of this handout, we will provide a lesson plan / tutorial for ridge-regression, as well as detailed instructions about what we would like you to submit.
+In the remainder of this handout, we will provide a lesson plan for the tutorials (different for computational neuroscience and deep learning, as well as detailed instructions about what we would like you to submit.
 
+You can run the jupyter notebook any way that you’d like, but we recommend using google colab to run the notebook. You can open the jupyter notebook manually through [colab](https://colab.research.google.com/github/), or hit this badge to load directly: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/NeuromatchAcademy/course-content/blob/master/tutorials/W1D3_ModelFitting/student/W1D3_Tutorial4.ipynb)
+
+### ***Computational Neuroscience TA application***
+
+**Lesson Plan**
 ***Background***
 
 For this tutorial you can assume that your students have learnt about:
 -  The mean-squared error (MSE) and how model parameters (slope) influence the MSE
 -   Least-squares optimization and Maximum Likelihood Estimation
 -   Implementing bootstrapping approach to build confidence intervals around the inferred linear model parameters
-  
 
 ***Tutorial Description***
 
@@ -28,17 +32,42 @@ In this set of exercises we will:
 You can access the jupyter notebook containing the tutorial here:
 https://github.com/NeuromatchAcademy/course-content/blob/master/tutorials/W1D3_ModelFitting/student/W1D3_Tutorial4.ipynb
 
-You can run the jupyter notebook any way that you’d like, but we recommend using google colab to run the notebook. You can open the jupyter notebook manually through [colab](https://colab.research.google.com/github/), or hit this badge to load directly: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/NeuromatchAcademy/course-content/blob/master/tutorials/W1D3_ModelFitting/student/W1D3_Tutorial4.ipynb)
-
-***Lesson Plan Example***
-
-You can structure your four minute video any way you like. Here is a sample minute by minute breakdown in case it is useful.
+For CN TA applicants we would like you to structure your five minute video with an emphasis on both theoretical and coding aspect of the models. We will appreciate if your video follows the breakdown given below: 
 
 * < 1 min: Introduce yourself. Give a few sentences about who you are!
-* < 1 min: Give a very brief recap of what multilinear regression is why you might use it. While you should imagine that you are teaching a class of students, don’t feel the need to address them or ask them questions.
-* ~3 mins: Work through part of the tutorial explaining the code and typing in solutions as you go.
+* < 2 mins: Give a very brief recap of **polynomial regression method** and explain why you might use it. While you should imagine that you are teaching a class of students, don’t feel the need to address them or ask them questions.
+* ~ 2 mins: Work through **Coding Exercise 2.1: Structure design matrix** explaining the solution code as you go.
 
-***How we will evaluate your video***
+### ***Deep Learning TA application***
+
+**Lesson Plan**
+***Background***
+
+For this tutorial you can assume that your students have learnt about:
+-  The differential calculus 
+-  The concept of mean-squared error (MSE) and how model parameters (slope) influence the MSE
+-  Least-squares optimization and Maximum Likelihood Estimation
+
+
+***Tutorial Description***
+
+In this set of exercises we will cover the key concepts behind:
+-   Gradient descent
+-   PyTorch Autograd
+-   PyTorch nn module
+    
+You can access the jupyter notebook containing the tutorial here:
+https://deeplearning.neuromatch.io/tutorials/W1D2_LinearDeepLearning/student/W1D2_Tutorial1.html
+
+For DL TA applicants we would like you to structure your five minute video with a slight more emphasis on the coding aspect. We will appreciate if your video follows the breakdown given below: 
+
+* < 1 min: Introduce yourself. Give a few sentences about who you are!
+* ~ 2 mins: Give a very brief recap of the concept of **AutoGrad** and explain why it is useful. While you should imagine that you are teaching a class of students, don’t feel the need to address them or ask them questions.
+* < 2 mins: Work through the **Coding Exercise 2.1: Buiding a Computational Graph** explaining the solution code as you go.
+
+
+### Evaluation and recording instructions
+****How we will evaluate your video****
 
 We are looking for people who are able to communicate well. We’re looking for quality over quantity, so don’t feel pressured to rush through everything. Instead, make sure the content you do get to is clear and easy to follow.
 
