@@ -105,3 +105,37 @@ As we mentioned we want the video to be 4-5 minutes long. You don’t have to co
 -   Upload the mp4 file in that folder (which should be called zoom_0.mp4 or something similar).
     
 -   For more details or troubleshooting, see [here](https://support.zoom.us/hc/en-us/articles/201362473-Local-Recording).
+
+
+### *Climate Match TA Application*
+
+***Lesson Plan & Background***
+
+For this tutorial you can assume that your students have learnt about:
+- Climate science basics
+- Numerical programming with NumPy
+- Introduction to Xarray.
+- Computations and Masks with Xarray
+
+***Tutorial Description***
+
+In this set of exercises we will:
+
+- Load SST data from the CESM2 model
+- Mask data using .where()
+- Compute climatologies and anomalies using .groupby()
+- Use .rolling() to compute moving average
+- Compute, normalize, and plot the Niño 3.4 Index
+You can access the jupyter notebook containing the tutorial here:
+https://foundations.projectpythia.org/core/xarray/enso-xarray.html 
+
+For Climatematch TA applicants we would like you to structure your five minute video with a  slight more emphasis on the coding aspect. We will appreciate if your video follows the breakdown given below:
+
+1. (**< 1min**) : Begin with an introduction (who you are, your interests, etc.)
+2. (**~ 2 min**): Give a very brief recap of the concept of El Nino Southern Oscillation(ENSO) and provide an instance of how this occurrence could be perceived in model simulation output, observational measurements, or paleoclimate data. While you should imagine that you are teaching a class of students, don’t feel the need to address them or ask them questions.
+3. (**~ 2 min**): Walk through the process of calculating ENSO using Xarray. You can start from the section “Compute  the anomalies” to make a more efficient use of the time. Explaining the solution code as you go.
+
+***Recording & Evaluation Instructions***
+Please follow the instructions given in the [Deep Learning TA application](#evaluation-and-recording-instructions).
+
+
