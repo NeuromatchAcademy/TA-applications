@@ -1,17 +1,21 @@
 
-## **Neuromatch Teaching Demo Instructions**
+## **Neuromatch & Climatematch Teaching Demo Instructions**
 
-As part of your application, we would like you to make a 4-5 minutes video that showcases your teaching. We don’t want you to spend too long making this video, certainly no longer than 1 hour, (for a fair assessment, longer videos will be penalized). You are not competing against others. We want as many qualified TAs as possible. Instead you are demonstrating to us that you are ready to teach! You can download a sample teaching demo for this tutorial in this repo, or see it on YouTube [here](https://www.youtube.com/watch?v=bKQxpM7CTZ8).
+As part of your application to be a teaching assistant, we would like you to make a 4-5 minutes video that showcases your teaching. We don’t want you to spend too long making this video, certainly no longer than 1 hour. For a fair assessment, longer videos will be penalized. You can download a sample teaching demo for this tutorial in this repo, or see it on YouTube [here](https://www.youtube.com/watch?v=bKQxpM7CTZ8).
 
-During the Neuromatch Academy summer course you will be leading hands-on tutorials live with a small group of students. At the end of each tutorial period you'll bring your whole group of students back for a short discussion, to review the answers to the tutorial and discuss further. Of course, in this teaching demo you're making for us there will be no live students. But we’d like you to review the first exercise in this tutorial as if there were a live audience (though you do not need to interact with this fake audience).
+During the our courses, you will be leading hands-on tutorials live with a small group of students. At the end of each tutorial period you'll bring your whole group of students back for a short discussion, to review the answers to the tutorial and discuss further. Of course, in this teaching demo you're making for us there will be no live students. But we’d like you to review a few exercises as if there were a live audience (though you do not need to interact with this fake audience).
 
-We essentially want you to: 1) get to know our tutorial, 2) open zoom and hit record and 3) explain one of the exercises as if you were with students who had just finished working that exercise.
+We essentially want you to: 1) get to know the course-specific tutorial, 2) open zoom and hit record and 3) explain one of the exercises as if you were with students who had just finished working that exercise.
 
-In the remainder of this handout, we will provide a lesson plan for the tutorials (different for computational neuroscience and deep learning, as well as detailed instructions about what we would like you to submit.
+Below, we provide course-specific instructions on what to cover in your video, as well as detailed recording instructions.
 
-You can run the jupyter notebook any way that you’d like, but we recommend using google colab to run the notebook. You can open the jupyter notebook manually through [colab](https://colab.research.google.com/github/), or hit this badge to load directly: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/NeuromatchAcademy/course-content/blob/master/tutorials/W1D3_ModelFitting/student/W1D3_Tutorial4.ipynb)
+**Course-specific instructions for teaching assistant applications:**
+- [Computational Neuroscience](#computational-neuroscience-ta-application-video-instructions)
+- [Deep Learning](#deep-learning-ta-application-video-instructions)
+- [Computational Tools for Climate Science](#computational-tools-for-climate-science-ta-application-video-instructions)
 
-### ***Computational Neuroscience TA application***
+
+### ***Computational Neuroscience TA application video instructions***
 
 **Lesson Plan**
 ***Background***
@@ -30,15 +34,19 @@ In this set of exercises we will:
 -   Evaluate the polynomial regression models.
     
 You can access the jupyter notebook containing the tutorial here:
-https://github.com/NeuromatchAcademy/course-content/blob/master/tutorials/W1D3_ModelFitting/student/W1D3_Tutorial4.ipynb
+https://github.com/NeuromatchAcademy/course-content/blob/main/tutorials/W1D2_ModelFitting/student/W1D2_Tutorial4.ipynb.
 
-For CN TA applicants we would like you to structure your five minute video with an emphasis on both theoretical and coding aspect of the models. We will appreciate if your video follows the breakdown given below: 
+For computational neuroscience TA applicants we would like you to structure your five minute video with an emphasis on both theoretical and coding aspect of the models. We will appreciate if your video follows the breakdown given below: 
 
 * < 1 min: Introduce yourself. Give a few sentences about who you are!
 * < 2 mins: Give a very brief recap of **polynomial regression method** and explain why you might use it. While you should imagine that you are teaching a class of students, don’t feel the need to address them or ask them questions.
 * ~ 2 mins: Work through **Coding Exercise 2.1: Structure design matrix** explaining the solution code as you go.
 
-### ***Deep Learning TA application***
+***Recording & Evaluation Instructions***
+Please follow the instructions given in the [Evaluation and recording instructions](#evaluation-and-recording-instructions).
+
+
+### ***Deep Learning TA application video instructions***
 
 **Lesson Plan**
 ***Background***
@@ -64,6 +72,40 @@ For DL TA applicants we would like you to structure your five minute video with 
 * < 1 min: Introduce yourself. Give a few sentences about who you are!
 * ~ 2 mins: Give a very brief recap of the concept of **AutoGrad** and explain why it is useful. While you should imagine that you are teaching a class of students, don’t feel the need to address them or ask them questions.
 * < 2 mins: Work through the **Coding Exercise 2.1: Buiding a Computational Graph** explaining the solution code as you go.
+
+***Recording & Evaluation Instructions***
+Please follow the instructions given in the [Evaluation and recording instructions](#evaluation-and-recording-instructions).
+
+### *Computational Tools for Climate Science TA Application video instructions*
+
+***Lesson Plan & Background***
+
+For this tutorial you can assume that your students have learnt about:
+- Climate science basics
+- Numerical programming with NumPy
+- Introduction to Xarray.
+- Computations and Masks with Xarray
+
+***Tutorial Description***
+
+In this set of exercises we will:
+
+- Load SST data from the CESM2 model
+- Mask data using .where()
+- Compute climatologies and anomalies using .groupby()
+- Use .rolling() to compute moving average
+- Compute, normalize, and plot the Niño 3.4 Index
+You can access the jupyter notebook containing the tutorial here:
+https://foundations.projectpythia.org/core/xarray/enso-xarray.html 
+
+For Climatematch TA applicants we would like you to structure your five minute video with a  slight more emphasis on the coding aspect. We will appreciate if your video follows the breakdown given below:
+
+1. (**< 1min**) : Begin with an introduction (who you are, your interests, etc.)
+2. (**~ 2 min**): Give a very brief recap of the concept of El Nino Southern Oscillation(ENSO) and provide an instance of how this occurrence could be perceived in model simulation output, observational measurements, or paleoclimate data. While you should imagine that you are teaching a class of students, don’t feel the need to address them or ask them questions.
+3. (**~ 2 min**): Walk through the process of calculating ENSO using Xarray. You can start from the section “Compute  the anomalies” to make a more efficient use of the time. Explaining the solution code as you go.
+
+***Recording & Evaluation Instructions***
+Please follow the instructions given in the [Evaluation and recording instructions](#evaluation-and-recording-instructions).
 
 
 ### Evaluation and recording instructions
@@ -105,37 +147,4 @@ As we mentioned we want the video to be 4-5 minutes long. You don’t have to co
 -   Upload the mp4 file in that folder (which should be called zoom_0.mp4 or something similar).
     
 -   For more details or troubleshooting, see [here](https://support.zoom.us/hc/en-us/articles/201362473-Local-Recording).
-
-
-### *Climate Match TA Application*
-
-***Lesson Plan & Background***
-
-For this tutorial you can assume that your students have learnt about:
-- Climate science basics
-- Numerical programming with NumPy
-- Introduction to Xarray.
-- Computations and Masks with Xarray
-
-***Tutorial Description***
-
-In this set of exercises we will:
-
-- Load SST data from the CESM2 model
-- Mask data using .where()
-- Compute climatologies and anomalies using .groupby()
-- Use .rolling() to compute moving average
-- Compute, normalize, and plot the Niño 3.4 Index
-You can access the jupyter notebook containing the tutorial here:
-https://foundations.projectpythia.org/core/xarray/enso-xarray.html 
-
-For Climatematch TA applicants we would like you to structure your five minute video with a  slight more emphasis on the coding aspect. We will appreciate if your video follows the breakdown given below:
-
-1. (**< 1min**) : Begin with an introduction (who you are, your interests, etc.)
-2. (**~ 2 min**): Give a very brief recap of the concept of El Nino Southern Oscillation(ENSO) and provide an instance of how this occurrence could be perceived in model simulation output, observational measurements, or paleoclimate data. While you should imagine that you are teaching a class of students, don’t feel the need to address them or ask them questions.
-3. (**~ 2 min**): Walk through the process of calculating ENSO using Xarray. You can start from the section “Compute  the anomalies” to make a more efficient use of the time. Explaining the solution code as you go.
-
-***Recording & Evaluation Instructions***
-Please follow the instructions given in the [Deep Learning TA application](#evaluation-and-recording-instructions).
-
 
