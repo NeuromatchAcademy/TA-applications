@@ -132,8 +132,9 @@ https://foundations.projectpythia.org/core/xarray/enso-xarray.html
 For Climatematch TA applicants we would like you to structure your five minute video with a  slight more emphasis on the coding aspect. We will appreciate if your video follows the breakdown given below:
 
 1. (**< 1min**) : Begin with an introduction (who you are, your interests, etc.)
-2. (**~ 2 min**): Give a very brief recap of the concept of El Nino Southern Oscillation(ENSO) and provide an instance of how this occurrence could be perceived in model simulation output, observational measurements, or paleoclimate data. While you should imagine that you are teaching a class of students, don’t feel the need to address them or ask them questions.
-3. (**~ 2 min**): Walk through the process of calculating ENSO using Xarray. You can start from the section “Compute  the anomalies” to make a more efficient use of the time. Explaining the solution code as you go.
+2. (**~2 min**): Give a very brief recap of the concept of El Nino Southern Oscillation(ENSO) and provide an instance of how this occurrence could be perceived in model simulation output, observational measurements, or paleoclimate data. While you should imagine that you are teaching a class of students, don’t feel the need to address them or ask them questions.
+3. (**~2 min**): Walk through the process of calculating ENSO using Xarray. You can start from the section “Compute the anomalies” to make a more efficient use of the time. Explain the solution code as you go. The [final plot](https://foundations.projectpythia.org/_images/9a4df8028a3744361353741e1850da4e4470340089a6325c47720aeb497ebd1e.png) should be generated during the video.
+
 
 ***Recording & Evaluation Instructions***
 Please follow the instructions given in the [Deep Learning TA application](#evaluation-and-recording-instructions).
