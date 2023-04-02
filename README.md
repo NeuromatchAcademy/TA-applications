@@ -33,8 +33,8 @@ In this set of exercises we will:
 -   Visualize the different polynomial regression models;
 -   Evaluate the polynomial regression models.
     
-You can access the jupyter notebook containing the tutorial here:
-https://github.com/NeuromatchAcademy/course-content/blob/main/tutorials/W1D2_ModelFitting/student/W1D2_Tutorial4.ipynb.
+You can access the tutorial here:
+https://compneuro.neuromatch.io/tutorials/W1D2_ModelFitting/student/W1D2_Tutorial4.html. You can download as a jupyter notebook, but we recommend using google colab to run the notebook. You can hit this badge to load directly: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NeuromatchAcademy/course-content/blob/main/tutorials/W1D2_ModelFitting/student/W1D2_Tutorial4.ipynb)
 
 For computational neuroscience TA applicants we would like you to structure your five minute video with an emphasis on both theoretical and coding aspect of the models. We will appreciate if your video follows the breakdown given below: 
 
@@ -64,10 +64,10 @@ In this set of exercises we will cover the key concepts behind:
 -   PyTorch Autograd
 -   PyTorch nn module
     
-You can access the jupyter notebook containing the tutorial here:
-https://deeplearning.neuromatch.io/tutorials/W1D2_LinearDeepLearning/student/W1D2_Tutorial1.html
+You can access the tutorial here:
+https://deeplearning.neuromatch.io/tutorials/W1D2_LinearDeepLearning/student/W1D2_Tutorial1.html. You can download as a jupyter notebook, but we recommend using google colab to run the notebook. You can hit this badge to load directly: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NeuromatchAcademy/course-content-dl/blob/main/tutorials/W1D2_LinearDeepLearning/student/W1D2_Tutorial1.ipynb)
 
-For DL TA applicants we would like you to structure your five minute video with a slight more emphasis on the coding aspect. We will appreciate if your video follows the breakdown given below: 
+For Deep Learning teaching assistant applicants we would like you to structure your five minute video with a slight more emphasis on the coding aspect. We will appreciate if your video follows the breakdown given below: 
 
 * < 1 min: Introduce yourself. Give a few sentences about who you are!
 * ~ 2 mins: Give a very brief recap of the concept of **AutoGrad** and explain why it is useful. While you should imagine that you are teaching a class of students, don’t feel the need to address them or ask them questions.
@@ -115,7 +115,7 @@ We are looking for people who are able to communicate well. We’re looking for 
 
 ***Recording the video***
 
-Because we are planning using Zoom during the Neuromatch Academy summer course, we’d like you to record your lesson using Zoom (instructions below). It should be a “single take” and you shouldn’t do any post-production work on the video. Don’t fuss about production quality! We are more interested in who you are than on the quality of your audio :-).
+Because we are planning using Zoom during our courses, we’d like you to record your lesson using Zoom (instructions below). It should be a “single take” and you shouldn’t do any post-production work on the video. Don’t fuss about production quality! We are more interested in who you are than on the quality of your audio :-).
   
 ***Uploading the video to YouTube or Bilibili***
 
