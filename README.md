@@ -127,7 +127,7 @@ In this set of exercises we will:
 - Use .rolling() to compute moving average
 - Compute, normalize, and plot the Niño 3.4 Index
 
-You can access the jupyter notebook containing the tutorial here: https://foundations.projectpythia.org/core/xarray/enso-xarray.html. You can download as a jupyter notebook and run it locally, but we recommend using google colab to run the notebook. You can hit this badge to load directly: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/projectpythia/Foundations/blob/master/core/xarray/enso-xarray.ipynb)
+You can access the jupyter notebook containing the tutorial here: https://foundations.projectpythia.org/core/xarray/enso-xarray.html. You can download as a jupyter notebook and run it locally, but we recommend using google colab to run the notebook. You can hit this badge to load directly: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ProjectPythia/pythia-foundations/blob/main/core/xarray/enso-xarray.ipynb)
 
 For Climatematch TA applicants we would like you to structure your five minute video with a  slight more emphasis on the coding aspect. We will appreciate if your video follows the breakdown given below:
 
