@@ -10,11 +10,10 @@ We essentially want you to: 1) get to know the course-specific tutorial, 2) open
 Below, we provide course-specific instructions on what to cover in your video, as well as detailed recording instructions.
 
 **Course-specific instructions for teaching assistant applications:**
-- [**Neuromatch \& Climatematch Teaching Demo Instructions**](#neuromatch--climatematch-teaching-demo-instructions)
-	- [***Computational Neuroscience TA application video instructions***](#computational-neuroscience-ta-application-video-instructions)
-	- [***Deep Learning TA application video instructions***](#deep-learning-ta-application-video-instructions)
-	- [*Computational Tools for Climate Science TA Application video instructions*](#computational-tools-for-climate-science-ta-application-video-instructions)
-	- [Evaluation and recording instructions](#evaluation-and-recording-instructions)
+- [***Computational Neuroscience TA application video instructions***](#computational-neuroscience-ta-application-video-instructions)
+- [***Deep Learning TA application video instructions***](#deep-learning-ta-application-video-instructions)
+- [***Computational Tools for Climate Science TA Application video instructions***](#computational-tools-for-climate-science-ta-application-video-instructions)
+- [Evaluation and recording instructions](#evaluation-and-recording-instructions)
 
 
 ### ***Computational Neuroscience TA application video instructions***
