@@ -10,9 +10,11 @@ We essentially want you to: 1) get to know the course-specific tutorial, 2) open
 Below, we provide course-specific instructions on what to cover in your video, as well as detailed recording instructions.
 
 **Course-specific instructions for teaching assistant applications:**
-- [Computational Neuroscience](#computational-neuroscience-ta-application-video-instructions)
-- [Deep Learning](#deep-learning-ta-application-video-instructions)
-- [Computational Tools for Climate Science](#computational-tools-for-climate-science-ta-application-video-instructions)
+- [**Neuromatch \& Climatematch Teaching Demo Instructions**](#neuromatch--climatematch-teaching-demo-instructions)
+	- [***Computational Neuroscience TA application video instructions***](#computational-neuroscience-ta-application-video-instructions)
+	- [***Deep Learning TA application video instructions***](#deep-learning-ta-application-video-instructions)
+	- [*Computational Tools for Climate Science TA Application video instructions*](#computational-tools-for-climate-science-ta-application-video-instructions)
+	- [Evaluation and recording instructions](#evaluation-and-recording-instructions)
 
 
 ### ***Computational Neuroscience TA application video instructions***
@@ -96,8 +98,22 @@ In this set of exercises we will:
 - Use .rolling() to compute moving average
 - Compute, normalize, and plot the Niño 3.4 Index
 
-You can access the jupyter notebook containing the tutorial here: https://foundations.projectpythia.org/core/xarray/enso-xarray.html. You can download as a jupyter notebook and run it locally, but we recommend using google colab to run the notebook. You can hit this badge to load directly: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ProjectPythia/pythia-foundations/blob/main/core/xarray/enso-xarray.ipynb)
+You can access the jupyter notebook containing the tutorial here: https://foundations.projectpythia.org/core/xarray/enso-xarray.html. You can download as a jupyter notebook and run it locally, but we recommend using google colab to run the notebook. Follow the below steps open and run the notebook.
 
+1. You can hit this badge(ctrl + click) to load directly in colab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ProjectPythia/pythia-foundations/blob/main/core/xarray/enso-xarray.ipynb). 
+2. Add the following cell before the before importing the libraries in the notebook. This will install the anaconda in the colab environment.
+
+	```bash
+	!pip install -q condacolab
+	import condacolab
+	condacolab.install() 
+	``` 
+3. Restart the runtime and run the following cell to install the libraries.
+
+	```bash
+	!conda install -c conda-forge cartopy
+	!pip install xarray[complete] pythia-datasets cftime
+	```
 
 For Climatematch TA applicants we would like you to structure your five minute video with a  slight more emphasis on the coding aspect. We will appreciate if your video follows the breakdown given below:
 
