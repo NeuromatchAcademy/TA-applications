@@ -98,10 +98,12 @@ In this set of exercises we will:
 - Use .rolling() to compute moving average
 - Compute, normalize, and plot the Niño 3.4 Index
 
-You can access the jupyter notebook containing the tutorial here: https://foundations.projectpythia.org/core/xarray/enso-xarray.html. You can download as a jupyter notebook and run it locally, but we recommend using google colab to run the notebook. Follow the below steps open and run the notebook.
+You can access the Jupyter Notebook containing the tutorial here: https://foundations.projectpythia.org/core/xarray/enso-xarray.html. You can download it as a Jupyter Notebook and run it locally or using Google Colab.
 
-1. You can hit this badge(ctrl + click) to load directly in colab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ProjectPythia/pythia-foundations/blob/main/core/xarray/enso-xarray.ipynb). 
-2. Add the following cell before the before importing the libraries in the notebook. This will install the anaconda in the colab environment.
+***Running Jupyter Notebook in Google Colab***
+
+1. You can hit this badge(ctrl + click) to load directly in Colab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ProjectPythia/pythia-foundations/blob/main/core/xarray/enso-xarray.ipynb). 
+2. Run the following cell before importing the libraries in the notebook. This will install Anaconda in the Colab environment.
 
 	```bash
 	!pip install -q condacolab
@@ -114,6 +116,14 @@ You can access the jupyter notebook containing the tutorial here: https://founda
 	!conda install -c conda-forge cartopy
 	!pip install xarray[complete] pythia-datasets cftime
 	```
+
+***Running Jupyter Notebook Locally***
+
+1.
+2.
+3.
+
+***Structure for your 5-min video***
 
 For Climatematch TA applicants we would like you to structure your five minute video with a  slight more emphasis on the coding aspect. We will appreciate if your video follows the breakdown given below:
 
