@@ -131,7 +131,7 @@ For Climatematch TA applicants you **are required** to structure your five minut
 
 1. (**< 1min**) : Begin with a short introduction (who you are, your interests, etc.)
 2. (**~2 min**) : Give a very brief recap of the concept of the El Nino Southern Oscillation (ENSO) and why this phenomenon is important for climate scientists to study. While you should imagine that you are teaching a class of students, don’t feel the need to address them or ask them questions.
-3. (**~2 min**) : Walk through the process of calculating ENSO using Xarray. You can start from the section “Compute the anomalies” to make a more efficient use of the time. Explain the solution code as you go. The [final plot](https://foundations.projectpythia.org/_images/9a4df8028a3744361353741e1850da4e4470340089a6325c47720aeb497ebd1e.png) should be generated during the video.
+3. (**~2 min**) : Walk through the process of calculating the Niño 3.4 Index using Xarray. You can start from the section “Compute the anomalies” to make a more efficient use of the time. Explain the solution code as you go. The [final plot](https://foundations.projectpythia.org/_images/9a4df8028a3744361353741e1850da4e4470340089a6325c47720aeb497ebd1e.png) should be generated during the video.
 
 ***Recording & Evaluation Instructions***
 Please follow the instructions given in the [Evaluation and recording instructions](#evaluation-and-recording-instructions).
@@ -144,7 +144,7 @@ We are looking for people who are able to communicate well. We’re looking for 
 
 ***Recording the video***
 
-Because we are planning using Zoom during our courses, we’d like you to record your lesson using Zoom (instructions below). It should be a “single take” and you shouldn’t do any post-production work on the video. Don’t fuss about production quality! We are more interested in who you are than on the quality of your audio :-).
+Because we will be using Zoom during our courses, you must record your lesson using Zoom (instructions below). We recommend doing a 'test' recording (of just you speaking, scrolling through the tutorial, etc but not the full thing) prior to recording your actual demo to make sure your audio is clear and that everything is working properly. The recording of your actual demo should be a “single take” and you shouldn’t do any post-production work on the video.
   
 ***Uploading the video to YouTube or Bilibili***
 
