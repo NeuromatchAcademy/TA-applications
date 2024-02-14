@@ -81,33 +81,32 @@ Please follow the instructions given in the [Evaluation and recording instructio
 
 ***Lesson Plan & Background***
 
-For this tutorial you can assume that your students have learnt about:
+For this tutorial you can assume that your students are knowledgable about:
 - Climate science basics
 - Numerical programming with NumPy
-- Introduction to Xarray.
-- Computations and Masks with Xarray
+- Computation and masking with Xarray
 
 ***Tutorial Description***
 
-In this set of exercises we will:
+**You must use our pre-made notebook for this teaching demo, found here: [https://foundations.projectpythia.org/core/xarray/enso-xarray.html](https://foundations.projectpythia.org/core/xarray/enso-xarray.html).** In the provided tutorial you will:
 
 - Load SST data from the CESM2 model
 - Mask data using .where()
 - Compute climatologies and anomalies using .groupby()
-- Use .rolling() to compute moving average
+- Use .rolling() to compute a moving average
 - Compute, normalize, and plot the Niño 3.4 Index
 
-You can access the Jupyter Notebook containing the tutorial here: https://foundations.projectpythia.org/core/xarray/enso-xarray.html. You can download it as a Jupyter Notebook and run it locally, using Google Colab or using Binder.
+You can download this tutorial and run it using Google Colab, using Binder, or downloading it and running it locally. Below are instructions for each.
 
 ***Running Jupyter Notebook Locally***
 
 1. Click on the download icon, also located in the top right corner of [the page](https://foundations.projectpythia.org/core/xarray/enso-xarray.html), and select “.ipynb”.
 
-2. Follow Proyect Pythia [specific instructions](https://foundations.projectpythia.org/preamble/how-to-use.html#interacting-with-jupyter-books-locally).
+2. Follow Project Pythia's [specific instructions for using on your own machine.](https://foundations.projectpythia.org/preamble/how-to-use.html#interacting-with-jupyter-books-locally).
 
 ***Running Jupyter Notebook on Binder***
 
-Hover over the rocket icon <i class="fa-solid fa-rocket"></i> in the top right corner of [the page](https://foundations.projectpythia.org/core/xarray/enso-xarray.html) and click “Binder” . Binder is a service that allows you to run Jupyter notebooks without any prior configuration or installation. It may take a few minutes for the Jupyter notebook to load.
+Hover over the rocket icon <i class="fa-solid fa-rocket"></i> in the top right corner of [this page](https://foundations.projectpythia.org/core/xarray/enso-xarray.html) and click “Binder” . Binder is a service that allows you to run Jupyter notebooks without any prior configuration or installation. It may take a few minutes for the Jupyter notebook to load.
 
 ***Running Jupyter Notebook in Google Colab***
 
@@ -120,7 +119,7 @@ Hover over the rocket icon <i class="fa-solid fa-rocket"></i> in the top right c
 	import condacolab
 	condacolab.install() 
 	``` 
-3. Restart the runtime and run the following cell to install the libraries.
+3. The runtime will automatically restart and you can run the following cell to install the required libraries.
 
 	```bash
 	!conda install -c conda-forge cartopy
@@ -128,11 +127,11 @@ Hover over the rocket icon <i class="fa-solid fa-rocket"></i> in the top right c
 	```
 ***Structure for your 5-min video***
 
-For Climatematch TA applicants we would like you to structure your five minute video with a  slight more emphasis on the coding aspect. We will appreciate if your video follows the breakdown given below:
+For Climatematch TA applicants you **are required** to structure your five minute as follows:
 
-1. (**< 1min**) : Begin with an introduction (who you are, your interests, etc.)
-2. (**~2 min**): Give a very brief recap of the concept of El Nino Southern Oscillation(ENSO) and provide an instance of how this occurrence could be perceived in model simulation output, observational measurements, or paleoclimate data. While you should imagine that you are teaching a class of students, don’t feel the need to address them or ask them questions.
-3. (**~2 min**): Walk through the process of calculating ENSO using Xarray. You can start from the section “Compute the anomalies” to make a more efficient use of the time. Explain the solution code as you go. The [final plot](https://foundations.projectpythia.org/_images/9a4df8028a3744361353741e1850da4e4470340089a6325c47720aeb497ebd1e.png) should be generated during the video.
+1. (**< 1min**) : Begin with a short introduction (who you are, your interests, etc.)
+2. (**~2 min**) : Give a very brief recap of the concept of the El Nino Southern Oscillation (ENSO) and why this phenomenon is important for climate scientists to study. While you should imagine that you are teaching a class of students, don’t feel the need to address them or ask them questions.
+3. (**~2 min**) : Walk through the process of calculating the Niño 3.4 Index using Xarray. You can start from the section “Compute the anomalies” to make a more efficient use of the time. Explain the solution code as you go. The [final plot](https://foundations.projectpythia.org/_images/9a4df8028a3744361353741e1850da4e4470340089a6325c47720aeb497ebd1e.png) should be generated during the video.
 
 ***Recording & Evaluation Instructions***
 Please follow the instructions given in the [Evaluation and recording instructions](#evaluation-and-recording-instructions).
@@ -145,7 +144,7 @@ We are looking for people who are able to communicate well. We’re looking for 
 
 ***Recording the video***
 
-Because we are planning using Zoom during our courses, we’d like you to record your lesson using Zoom (instructions below). It should be a “single take” and you shouldn’t do any post-production work on the video. Don’t fuss about production quality! We are more interested in who you are than on the quality of your audio :-).
+Because we will be using Zoom during our courses, you must record your lesson using Zoom (instructions below). We recommend doing a 'test' recording (of just you speaking, scrolling through the tutorial, etc but not the full thing) prior to recording your actual demo to make sure your audio is clear and that everything is working properly. The recording of your actual demo should be a “single take” and you shouldn’t do any post-production work on the video.
   
 ***Uploading the video to YouTube or Bilibili***
 
