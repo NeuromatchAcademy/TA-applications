@@ -10,13 +10,14 @@ We essentially want you to: 1) get to know the course-specific tutorial, 2) open
 Below, we provide course-specific instructions on what to cover in your video, as well as detailed recording instructions.
 
 **Course-specific instructions for teaching assistant applications:**
-- [***Computational Neuroscience TA application video instructions***](#computational-neuroscience-ta-application-video-instructions)
+- [***Computational Neuroscience TA application video instructions***](#computational-neuroscience-and-neuroai-ta-application-video-instructions)
 - [***Deep Learning TA application video instructions***](#deep-learning-ta-application-video-instructions)
 - [***Computational Tools for Climate Science TA Application video instructions***](#computational-tools-for-climate-science-ta-application-video-instructions)
+- [***NeuroAI TA application video instructions***](#computational-neuroscience-and-neuroai-ta-application-video-instructions)
 - [Evaluation and recording instructions](#evaluation-and-recording-instructions)
 
 
-### ***Computational Neuroscience TA application video instructions***
+### ***Computational Neuroscience and NeuroAI TA application video instructions***
 
 **Lesson Plan**
 ***Background***
@@ -37,7 +38,7 @@ In this set of exercises we will:
 You can access the tutorial here:
 https://compneuro.neuromatch.io/tutorials/W1D2_ModelFitting/student/W1D2_Tutorial4.html. You can download as a jupyter notebook, but we recommend using google colab to run the notebook. You can hit this badge to load directly: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NeuromatchAcademy/course-content/blob/main/tutorials/W1D2_ModelFitting/student/W1D2_Tutorial4.ipynb)
 
-For computational neuroscience TA applicants we would like you to structure your five minute video with an emphasis on both theoretical and coding aspect of the models. We will appreciate if your video follows the breakdown given below: 
+For computational neuroscience and Neuro AI TA applicants we would like you to structure your five minute video with an emphasis on both theoretical and coding aspect of the models. We will appreciate if your video follows the breakdown given below: 
 
 * < 1 min: Introduce yourself. Give a few sentences about who you are!
 * < 2 mins: Give a very brief recap of **polynomial regression method** and explain why you might use it. While you should imagine that you are teaching a class of students, don’t feel the need to address them or ask them questions.
@@ -140,7 +141,7 @@ Please follow the instructions given in the [Evaluation and recording instructio
 ### Evaluation and recording instructions
 ****How we will evaluate your video****
 
-We are looking for people who are able to communicate well. We’re looking for quality over quantity, so don’t feel pressured to rush through everything. Instead, make sure the content you do get to is clear and easy to follow.
+We are looking for people who are able to communicate well and who show their knowledge of Python including live coding during. We’re looking for quality over quantity, so don’t feel pressured to rush through everything. Instead, make sure the content you do get to is clear and easy to follow.
 
 ***Recording the video***
 
