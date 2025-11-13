@@ -14,7 +14,8 @@ Below, we provide course-specific instructions on what to cover in your video, a
 - [***Deep Learning TA application video instructions***](#deep-learning-ta-application-video-instructions)
 - [***Computational Tools for Climate Science TA Application video instructions***](#computational-tools-for-climate-science-ta-application-video-instructions)
 - [***NeuroAI TA application video instructions***](#computational-neuroscience-and-neuroai-ta-application-video-instructions)
-- [Evaluation and recording instructions](#evaluation-and-recording-instructions)
+
+For all courses, we have provided [details about how you will be evaluated and detailed instructions for recording.](#evaluation-and-recording-instructions)
 
 
 ### ***Computational Neuroscience and NeuroAI TA application video instructions***
@@ -141,19 +142,11 @@ Please follow the instructions given in the [Evaluation and recording instructio
 ### Evaluation and recording instructions
 ****How we will evaluate your video****
 
-We are looking for people who are able to communicate well and who show their knowledge of Python including live coding during. We’re looking for quality over quantity, so don’t feel pressured to rush through everything. Instead, make sure the content you do get to is clear and easy to follow.
+We are looking for people who are able to communicate well and who show their knowledge of Python, including live coding during the tutorial. We’re looking for quality over quantity, so don’t feel pressured to rush through everything. Instead, make sure the content you do get to is clear and easy to follow.
 
 ***Recording the video***
 
 Because we will be using Zoom during our courses, you must record your lesson using Zoom (instructions below). We recommend doing a 'test' recording (of just you speaking, scrolling through the tutorial, etc but not the full thing) prior to recording your actual demo to make sure your audio is clear and that everything is working properly. The recording of your actual demo should be a “single take” and you shouldn’t do any post-production work on the video.
-  
-***Uploading the video to YouTube or Bilibili***
-
-In your TA application you will need to provide a link to your sample teaching video. The easiest way to do this is to upload a video to YouTube and set the visibility setting to ‘unlisted’, as we’ve done for the sample. This means only people who have the link can view your video. Anyone can create an account on YouTube and upload videos for free. If you are in a country where YouTube is blocked, please upload your video to [Bilibili](https://www.bilibili.com/).
-
-***Length of the video***
-
-As we mentioned we want the video to be 4-5 minutes long. You don’t have to conclude nicely -- feel free to cut the video at 4 minutes, even if you aren’t quite done. Making mistakes is ok! Point them out and use them as teaching moments. Do not feel the need to overproduce your video! We are trying to scale here, we hope you understand :-)
 
 ***Zoom Instructions***
 
@@ -164,7 +157,14 @@ As we mentioned we want the video to be 4-5 minutes long. You don’t have to co
 -   Choose the window you have previously opened if you want to write code
 -   Choose “Whiteboard” if you want to use the built-in whiteboard feature. Feel free to record an actual whiteboard if you have access to that as well, or to not use a whiteboard at all!
 -   Choose “iPhone/iPad” if you’d like to share work on an iPad (having an iPad is not required).
+  
+***Length of the video***
 
+As we mentioned we want the video to be 4-5 minutes long. You don’t have to conclude nicely -- feel free to cut the video at 4 minutes, even if you aren’t quite done. Making mistakes is ok! Point them out and use them as teaching moments. Do not feel the need to overproduce your video!
+
+***Uploading the video to YouTube or Bilibili***
+
+In your TA application you will need to provide a link to your sample teaching video. The easiest way to do this is to upload a video to YouTube and set the visibility setting to ‘unlisted’, as we’ve done for the sample. This means only people who have the link can view your video. Anyone can create an account on YouTube and upload videos for free. If you are in a country where YouTube is blocked, please upload your video to [Bilibili](https://www.bilibili.com/).
 
 - Some tips for sharing your screen:
 	-   To change what screen you’re sharing, hover over the floating green bar with the meeting ID to bring up the menu and hit “New Share”.
