@@ -123,7 +123,7 @@ For this tutorial you can assume that your students are knowledgable about:
 
 ***Tutorial Description***
 
-**You must use our pre-made notebook for this teaching demo, found here: [https://foundations.projectpythia.org/core/xarray/enso-xarray.html](https://foundations.projectpythia.org/core/xarray/enso-xarray.html).** In the provided tutorial you will:
+**You must use our pre-made notebook for this teaching demo, found here: [https://foundations.projectpythia.org/core/xarray/enso-xarray/](https://foundations.projectpythia.org/core/xarray/enso-xarray/).** In the provided tutorial you will:
 
 - Load SST data from the CESM2 model
 - Mask data using .where()
@@ -135,13 +135,13 @@ You can download this tutorial and run it using Google Colab, using Binder, or d
 
 ***Running Jupyter Notebook Locally***
 
-1. Click on the download icon, also located in the top right corner of [the page](https://foundations.projectpythia.org/core/xarray/enso-xarray.html), and select “.ipynb”.
+1. Click on the download icon, also located in the top right corner of [the page](https://foundations.projectpythia.org/core/xarray/enso-xarray/), and select “.ipynb”.
 
-2. Follow Project Pythia's [specific instructions for using on your own machine.](https://foundations.projectpythia.org/preamble/how-to-use.html#interacting-with-jupyter-books-locally).
+2. Follow Project Pythia's [specific instructions for using on your own machine.](https://foundations.projectpythia.org/preamble/how-to-use/#interacting-with-jupyter-books-locally).
 
 ***Running Jupyter Notebook on Binder***
 
-Hover over the rocket icon <i class="fa-solid fa-rocket"></i> in the top right corner of [this page](https://foundations.projectpythia.org/core/xarray/enso-xarray.html) and click “Binder” . Binder is a service that allows you to run Jupyter notebooks without any prior configuration or installation. It may take a few minutes for the Jupyter notebook to load.
+Hover over the rocket icon <i class="fa-solid fa-rocket"></i> in the top right corner of [this page](https://foundations.projectpythia.org/core/xarray/enso-xarray/) and click “Binder” . Binder is a service that allows you to run Jupyter notebooks without any prior configuration or installation. It may take a few minutes for the Jupyter notebook to load.
 
 ***Running Jupyter Notebook in Google Colab***
 
