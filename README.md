@@ -179,7 +179,9 @@ We are looking for people who are able to communicate well and who show their kn
 
 ***Recording the video***
 
-Because we will be using Zoom during our courses, you must record your lesson using Zoom (instructions below). We recommend doing a 'test' recording (of just you speaking, scrolling through the tutorial, etc but not the full thing) prior to recording your actual demo to make sure your audio is clear and that everything is working properly. The recording of your actual demo should be a “single take” and you shouldn’t do any post-production work on the video.
+Because we will be using Zoom during our courses, we recommend recording your lesson using Zoom (instructions below). We recommend doing a 'test' recording (of just you speaking, scrolling through the tutorial, etc but not the full thing) prior to recording your actual demo to make sure your audio is clear and that everything is working properly. The recording of your actual demo should be a “single take” and you shouldn’t do any post-production work on the video.
+
+*In the event of technical difficulties or limited internet, you can use any recording mechanism that works for you.*
 
 ***Zoom Instructions***
 
